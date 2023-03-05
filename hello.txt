@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 hello world! hello git2223
 3
+=======
+
+hello world! hello git22233
+hello world! hello git
+>>>>>>> hot-fix
 hello world! hello git
 hello world! hello git
 hello world! hello git
@@ -20,3 +26,4 @@ hello world! hello git
 hello world! hello git
 hello world! hello git
 hello world! hello git mast
+hello world! hello git hot fix
